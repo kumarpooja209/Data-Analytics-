@@ -1,4 +1,5 @@
 ## Machinelearning
+
 In this analysis different machine learning algorithm is applied on three different datasets to identify the patterns/insights.
 
 1. Suicide Rate Prediction: Linear Regression and Gradient Boosting regression is used to predict and validated using k-fold validation.
